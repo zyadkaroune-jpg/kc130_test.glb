@@ -1,0 +1,1 @@
+# kc130_test.glb
